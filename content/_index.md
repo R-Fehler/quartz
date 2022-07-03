@@ -2,9 +2,10 @@
 title: 🪴 Quartz 3.2
 ---
 
-Host your second brain and [[networked thought]] for free. Quartz features
+Host your second brain and  for free. Quartz features
 
-link: [linktest](notes/networked%20thought.md)
+this is a link [[notes/config]]
+
 
 1. Extremely fast full-text search by pressing `Ctrl` + `k`
 2. Customizable and hackable design based on Hugo
