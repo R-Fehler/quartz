@@ -6,7 +6,10 @@ Host your second brain and  for free. Quartz features
 
 this is a link [[notes/config]]
 
+now we are editing with git support
+![[notes/images/github-pages.png]]
 
+this is a test [[notes/updating|update]]
 1. Extremely fast full-text search by pressing `Ctrl` + `k`
 2. Customizable and hackable design based on Hugo
 3. Automatically generated backlinks, link previews, and local graph
